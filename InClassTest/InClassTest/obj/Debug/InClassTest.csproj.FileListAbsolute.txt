@@ -1,0 +1,13 @@
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\bin\Debug\InClassTest.exe.config
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\bin\Debug\InClassTest.exe
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\bin\Debug\InClassTest.pdb
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\bin\Debug\DataProvider.dll
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\obj\Debug\InClassTest.csproj.AssemblyReference.cache
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\obj\Debug\InClassTest.Form1.resources
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\obj\Debug\InClassTest.Properties.Resources.resources
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\obj\Debug\InClassTest.csproj.GenerateResource.cache
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\obj\Debug\InClassTest.csproj.CoreCompileInputs.cache
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\obj\Debug\InClassTest.csproj.CopyComplete
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\obj\Debug\InClassTest.exe
+C:\Users\Jakhongir\source\repos\InClassTest\InClassTest\obj\Debug\InClassTest.pdb
